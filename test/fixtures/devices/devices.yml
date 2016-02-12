@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  uuid: MyString
+  device_token: MyString
+  platform: MyString
+  endpoint_arn: MyText
+
+two:
+  uuid: MyString
+  device_token: MyString
+  platform: MyString
+  endpoint_arn: MyText
